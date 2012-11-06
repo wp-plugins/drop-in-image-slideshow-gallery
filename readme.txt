@@ -5,8 +5,8 @@ Author URI: http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gall
 Plugin URI: http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gallery/
 Tags: drop in, image, slideshow, gallery
 Requires at least: 3.0
-Tested up to: 3.4.1
-Stable tag: 8.0
+Tested up to: 3.4.2
+Stable tag: 9.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	
@@ -82,6 +82,10 @@ Answers : http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-galler
 
 == Upgrade Notice ==
 
+= 9.0 =
+
+Tested up to 3.4.2
+
 = 8.0 =
 
 New demo link, www.gopiplus.com
@@ -120,6 +124,10 @@ use 'All image link' text field to give link to images
 First version.
 
 == Changelog ==
+
+= 9.0 =
+
+Tested up to 3.4.2
 
 = 8.0 =
 
