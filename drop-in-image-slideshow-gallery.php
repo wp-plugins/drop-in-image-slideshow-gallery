@@ -5,7 +5,7 @@ Plugin Name: drop in image slideshow gallery
 Plugin URI: http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gallery/
 Description:  This drop in image slideshow gallery is your regular image slideshow, except each image is dropped into view. this effect that works in all major browsers. The slideshow stops dropping when the mouse is over it.
 Author: Gopi.R
-Version: 9.0
+Version: 9.1
 Author URI: http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gallery/
 Donate link: http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gallery/
 DIISG = drop in image slideshow gallery
@@ -136,7 +136,7 @@ function DIISG_control()
 	echo $DIISG_link . '" name="DIISG_link" id="DIISG_link" /></p>';
 	echo '<input type="hidden" id="DIISG_submit" name="DIISG_submit" value="1" />';
 	
-	echo 'Check official website for more info <a target="_blank" href="http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gallery/">click here</a>';
+	echo 'Check official website for more information <a target="_blank" href="http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gallery/">click here</a>';
 
 }
 
