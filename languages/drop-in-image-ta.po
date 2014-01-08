@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: drop in image slideshow gallery\n"
+"POT-Creation-Date: 2014-01-08 20:41+0800\n"
+"PO-Revision-Date: 2014-01-08 20:55+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../drop-in-image-slideshow-gallery.php:114
+msgid "Title:"
+msgstr "தலைப்பு:"
+
+#: ../drop-in-image-slideshow-gallery.php:118
+msgid ""
+"For best view, arrange the width & height perfectly to match with your site "
+"side bar. Set the height to the height of the LARGEST image in your "
+"slideshow!"
+msgstr ""
+"For best view, arrange the width & height perfectly to match with your site "
+"side bar. Set the height to the height of the LARGEST image in your "
+"slideshow!"
+
+#: ../drop-in-image-slideshow-gallery.php:121
+msgid "Width:"
+msgstr "அகலம்:"
+
+#: ../drop-in-image-slideshow-gallery.php:122
+msgid "Height:"
+msgstr "உயரம்:"
+
+#: ../drop-in-image-slideshow-gallery.php:123
+msgid "Delay:"
+msgstr "தாமதம்:"
+
+#: ../drop-in-image-slideshow-gallery.php:126
+#: ../drop-in-image-slideshow-gallery.php:127
+msgid "px"
+msgstr "px"
+
+#: ../drop-in-image-slideshow-gallery.php:128
+msgid "milliseconds"
+msgstr "milliseconds"
+
+#: ../drop-in-image-slideshow-gallery.php:132
+msgid ""
+"Image directory: (Your entire image should be placed within below mentioned "
+"path)"
+msgstr ""
+"பட டைரக்டரி: (Your entire image should be placed within below mentioned path)"
+
+#: ../drop-in-image-slideshow-gallery.php:134
+msgid ""
+"(Note: Dont upload your original images into this default folder, instead "
+"you change this default path to original path)"
+msgstr ""
+"(Note: Dont upload your original images into this default folder, instead "
+"you change this default path to original path)"
+
+#: ../drop-in-image-slideshow-gallery.php:135
+msgid "All image link:"
+msgstr "பட இணைப்பு:"
+
+#: ../drop-in-image-slideshow-gallery.php:140
+msgid "Check official website for more info"
+msgstr "மேலும் தகவலுக்கு உத்தியோகபூர்வ இணையதளத்தில் பார்க்கலாம்"
+
+#: ../drop-in-image-slideshow-gallery.php:141
+msgid "Click here"
+msgstr "இங்கே கிளிக் செய்யவும்"
+
+#: ../drop-in-image-slideshow-gallery.php:149
+#: ../drop-in-image-slideshow-gallery.php:154
+msgid "Drop In Slide Show"
+msgstr "ஸ்லைடு ஷோ"
