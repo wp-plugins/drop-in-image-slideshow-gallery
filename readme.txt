@@ -5,8 +5,8 @@ Author URI: http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gall
 Plugin URI: http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gallery/
 Tags: drop in, image, slideshow, gallery
 Requires at least: 3.4
-Tested up to: 3.9
-Stable tag: 10.2
+Tested up to: 4.0
+Stable tag: 10.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	
@@ -21,30 +21,16 @@ Check official website for live demo [http://www.gopiplus.com/work/2010/07/18/dr
 [Comments/Suggestion](http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gallery/)			
 [About author](http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gallery/)	
 
-This drop in image slide show gallery is your regular image slide-show plugin, except each image is dropped into view. this effect that works in all major browsers. The slide-show stops dropping when the mouse is over it.
+This drop in image slide show gallery is your regular image slideshow plugin, except each image is dropped into view. this effect that works in all major browsers. The slideshow stops dropping when the mouse is over it.
   
 **Feature**
 
 * Simple customization.
 * Easy installation.
 * Widgets, so you can add pretty much anything.
-* Easy slide-show size (width & height) override option.
+* Easy slideshow size (width & height) override option.
 		
-**My few other useful plugins**
-
-* [WP fade in text news](http://www.gopiplus.com/work/2011/04/22/wordpress-plugin-wp-fadein-text-news/)				
-* [Up down image slideshow gallery](http://www.gopiplus.com/work/2011/04/25/wordpress-plugin-up-down-image-slideshow-script/)			
-* [Information reel](http://www.gopiplus.com/work/2011/04/16/wordpress-plugin-information-reel/)	
-* [News announcement scroll](http://www.gopiplus.com/work/2011/01/01/news-announcement-scroll/)		
-* [Continuous rss scrolling](http://www.gopiplus.com/work/2010/09/05/continuous-rss-scrolling/)		
-* [Continuous announcement scroller](http://www.gopiplus.com/work/2010/09/04/continuous-announcement-scroller/)		
-* [Vertical scroll recent post](http://www.gopiplus.com/work/2010/07/18/vertical-scroll-recent-post/)		
-* [Superb slideshow gallery](http://www.gopiplus.com/work/2010/10/10/superb-slideshow-gallery/)		
-* [Email newsletter](http://www.gopiplus.com/work/2010/09/25/email-newsletter/)	
-	
 == Installation ==
-
-**Installation Instruction & Configuration**  	
 
 **Method 1**	
 
@@ -64,13 +50,13 @@ We have 2 option to configure this plugin [click here](http://www.gopiplus.com/w
 
 == Frequently Asked Questions ==
 
-**How to arrange the width & height of the slideshow?**  
+1. How to arrange the width & height of the slideshow?
   
-**How to change the drop delay time**  
+2. How to change the drop delay time
   
-**Where to upload my image?**  
+3. Where to upload my image?
 
-**how the slide show manages the order?**  
+4. how the slide show manages the order?
 
 Answers : http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gallery/
 
@@ -81,6 +67,10 @@ Answers : http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-galler
 2. Front End http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gallery/
 
 == Upgrade Notice ==
+
+= 10.3 =
+
+1. Tested up to 4.0
 
 = 10.2 =
 
@@ -142,6 +132,10 @@ use 'All image link' text field to give link to images
 First version.
 
 == Changelog ==
+
+= 10.3 =
+
+1. Tested up to 4.0
 
 = 10.2 =
 

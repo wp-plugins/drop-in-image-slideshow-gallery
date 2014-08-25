@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: drop in image slideshow gallery\n"
-"POT-Creation-Date: 2014-01-08 20:41+0800\n"
-"PO-Revision-Date: 2014-01-08 20:55+0800\n"
+"POT-Creation-Date: 2014-08-10 22:06+0800\n"
+"PO-Revision-Date: 2014-08-10 22:06+0800\n"
 "Last-Translator: \n"
 "Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
 "MIME-Version: 1.0\n"
@@ -13,11 +13,11 @@ msgstr ""
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: ../drop-in-image-slideshow-gallery.php:114
+#: ../drop-in-image-slideshow-gallery.php:120
 msgid "Title:"
 msgstr "தலைப்பு:"
 
-#: ../drop-in-image-slideshow-gallery.php:118
+#: ../drop-in-image-slideshow-gallery.php:124
 msgid ""
 "For best view, arrange the width & height perfectly to match with your site "
 "side bar. Set the height to the height of the LARGEST image in your "
@@ -27,35 +27,35 @@ msgstr ""
 "side bar. Set the height to the height of the LARGEST image in your "
 "slideshow!"
 
-#: ../drop-in-image-slideshow-gallery.php:121
+#: ../drop-in-image-slideshow-gallery.php:127
 msgid "Width:"
 msgstr "அகலம்:"
 
-#: ../drop-in-image-slideshow-gallery.php:122
+#: ../drop-in-image-slideshow-gallery.php:128
 msgid "Height:"
 msgstr "உயரம்:"
 
-#: ../drop-in-image-slideshow-gallery.php:123
+#: ../drop-in-image-slideshow-gallery.php:129
 msgid "Delay:"
 msgstr "தாமதம்:"
 
-#: ../drop-in-image-slideshow-gallery.php:126
-#: ../drop-in-image-slideshow-gallery.php:127
+#: ../drop-in-image-slideshow-gallery.php:132
+#: ../drop-in-image-slideshow-gallery.php:133
 msgid "px"
 msgstr "px"
 
-#: ../drop-in-image-slideshow-gallery.php:128
+#: ../drop-in-image-slideshow-gallery.php:134
 msgid "milliseconds"
 msgstr "milliseconds"
 
-#: ../drop-in-image-slideshow-gallery.php:132
+#: ../drop-in-image-slideshow-gallery.php:138
 msgid ""
 "Image directory: (Your entire image should be placed within below mentioned "
 "path)"
 msgstr ""
 "பட டைரக்டரி: (Your entire image should be placed within below mentioned path)"
 
-#: ../drop-in-image-slideshow-gallery.php:134
+#: ../drop-in-image-slideshow-gallery.php:140
 msgid ""
 "(Note: Dont upload your original images into this default folder, instead "
 "you change this default path to original path)"
@@ -63,19 +63,19 @@ msgstr ""
 "(Note: Dont upload your original images into this default folder, instead "
 "you change this default path to original path)"
 
-#: ../drop-in-image-slideshow-gallery.php:135
+#: ../drop-in-image-slideshow-gallery.php:141
 msgid "All image link:"
 msgstr "பட இணைப்பு:"
 
-#: ../drop-in-image-slideshow-gallery.php:140
+#: ../drop-in-image-slideshow-gallery.php:146
 msgid "Check official website for more info"
 msgstr "மேலும் தகவலுக்கு உத்தியோகபூர்வ இணையதளத்தில் பார்க்கலாம்"
 
-#: ../drop-in-image-slideshow-gallery.php:141
+#: ../drop-in-image-slideshow-gallery.php:147
 msgid "Click here"
 msgstr "இங்கே கிளிக் செய்யவும்"
 
-#: ../drop-in-image-slideshow-gallery.php:149
-#: ../drop-in-image-slideshow-gallery.php:154
+#: ../drop-in-image-slideshow-gallery.php:155
+#: ../drop-in-image-slideshow-gallery.php:160
 msgid "Drop In Slide Show"
 msgstr "ஸ்லைடு ஷோ"
