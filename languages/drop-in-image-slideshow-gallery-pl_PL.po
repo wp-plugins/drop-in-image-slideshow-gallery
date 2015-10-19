@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: drop in image slideshow gallery\n"
+"POT-Creation-Date: 2015-10-17 21:53+0800\n"
+"PO-Revision-Date: 2015-10-17 21:53+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../drop-in-image-slideshow-gallery.php:120
+msgid "Title:"
+msgstr "Tytuł:"
+
+#: ../drop-in-image-slideshow-gallery.php:124
+msgid ""
+"For best view, arrange the width & height perfectly to match with your site "
+"side bar. Set the height to the height of the LARGEST image in your "
+"slideshow!"
+msgstr ""
+"Aby uzyskać najlepszy widok, zorganizować wysokość szerokość i idealnie "
+"dopasować się swoim pasku bocznym kempingowe. Ustaw wysokość do wysokości "
+"największych obrazu w pokazie slajdów!"
+
+#: ../drop-in-image-slideshow-gallery.php:127
+msgid "Width:"
+msgstr "Szerokość:"
+
+#: ../drop-in-image-slideshow-gallery.php:128
+msgid "Height:"
+msgstr "Wysokość:"
+
+#: ../drop-in-image-slideshow-gallery.php:129
+msgid "Delay:"
+msgstr "Opóźnienie"
+
+#: ../drop-in-image-slideshow-gallery.php:132
+#: ../drop-in-image-slideshow-gallery.php:133
+msgid "px"
+msgstr "px"
+
+#: ../drop-in-image-slideshow-gallery.php:134
+msgid "milliseconds"
+msgstr "Milisekunda"
+
+#: ../drop-in-image-slideshow-gallery.php:138
+msgid ""
+"Image directory: (Your entire image should be placed within below mentioned "
+"path)"
+msgstr ""
+"Katalog zdjęcie: (Twój cały obraz powinny być umieszczone w niżej "
+"wymienionej ścieżki)"
+
+#: ../drop-in-image-slideshow-gallery.php:140
+msgid ""
+"(Note: Dont upload your original images into this default folder, instead "
+"you change this default path to original path)"
+msgstr ""
+"(Uwaga: Dont przesłać oryginalne obrazy w tym folderze domyślnym, zamiast "
+"zmienić tę domyślną ścieżkę do oryginalnej ścieżki)"
+
+#: ../drop-in-image-slideshow-gallery.php:141
+msgid "All image link:"
+msgstr "Wszystko odnośnik:"
+
+#: ../drop-in-image-slideshow-gallery.php:146
+msgid "Check official website for more info"
+msgstr "Sprawdzić oficjalną stronę internetową, aby uzyskać więcej informacji"
+
+#: ../drop-in-image-slideshow-gallery.php:147
+msgid "Click here"
+msgstr "Kliknij tutaj"
+
+#: ../drop-in-image-slideshow-gallery.php:155
+#: ../drop-in-image-slideshow-gallery.php:160
+msgid "Drop In Slide Show"
+msgstr "Spadek pokazu slajdów"

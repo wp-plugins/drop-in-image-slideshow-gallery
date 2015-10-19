@@ -4,12 +4,14 @@ Plugin Name: drop in image slideshow gallery
 Plugin URI: http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gallery/
 Description:  This drop in image slideshow gallery is your regular image slideshow, except each image is dropped into view. this effect that works in all major browsers. The slideshow stops dropping when the mouse is over it.
 Author: Gopi Ramasamy
-Version: 10.5
+Version: 10.7
 Author URI: http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gallery/
 Donate link: http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gallery/
 DIISG = drop in image slideshow gallery
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: drop-in-image-slideshow-gallery
+Domain Path: /languages
 */
 
 function DIISG_slideshow() 
@@ -117,34 +119,34 @@ function DIISG_control()
 		update_option('DIISG_link', $DIISG_link );
 	}
 	
-	echo '<p">'.__('Title:', 'drop-in-image').'<br><input  style="width: 450px;" maxlength="100" type="text" value="';
+	echo '<p">'.__('Title:', 'drop-in-image-slideshow-gallery').'<br><input  style="width: 450px;" maxlength="100" type="text" value="';
 	echo $DIISG_title . '" name="DIISG_title" id="DIISG_title" /></p>';
 	echo '<table width="490" border="0" cellspacing="0" cellpadding="2">';
 	echo '<tr><td colspan="3" style="color:#999900;">';
-	echo '<p>'.__('For best view, arrange the width & height perfectly to match with your site side bar. Set the height to the height of the LARGEST image in your slideshow!', 'drop-in-image').'</p>';
+	echo '<p>'.__('For best view, arrange the width & height perfectly to match with your site side bar. Set the height to the height of the LARGEST image in your slideshow!', 'drop-in-image-slideshow-gallery').'</p>';
 	echo '</td></tr>';
 	echo '<tr>';
-	echo '<td>'.__('Width:', 'drop-in-image').'</td>';
-	echo '<td>'.__('Height:', 'drop-in-image').'</td>';
-	echo '<td>'.__('Delay:', 'drop-in-image').'</td>';
+	echo '<td>'.__('Width:', 'drop-in-image-slideshow-gallery').'</td>';
+	echo '<td>'.__('Height:', 'drop-in-image-slideshow-gallery').'</td>';
+	echo '<td>'.__('Delay:', 'drop-in-image-slideshow-gallery').'</td>';
 	echo '</tr>';
 	echo '<tr>';
-	echo '<td><input  style="width: 75px;" maxlength="3" type="text" value="' . $DIISG_width . '" name="DIISG_width" id="DIISG_width" />'.__('px', 'drop-in-image').'</td>';
-	echo '<td><input  style="width: 75px;" maxlength="3" type="text" value="' . $DIISG_height . '" name="DIISG_height" id="DIISG_height" />'.__('px', 'drop-in-image').'</td>';
-	echo '<td><input  style="width: 75px;" maxlength="5" type="text" value="' . $DIISG_delay . '" name="DIISG_delay" id="DIISG_delay" />'.__('milliseconds', 'drop-in-image').'</td>';
+	echo '<td><input  style="width: 75px;" maxlength="3" type="text" value="' . $DIISG_width . '" name="DIISG_width" id="DIISG_width" />'.__('px', 'drop-in-image-slideshow-gallery').'</td>';
+	echo '<td><input  style="width: 75px;" maxlength="3" type="text" value="' . $DIISG_height . '" name="DIISG_height" id="DIISG_height" />'.__('px', 'drop-in-image-slideshow-gallery').'</td>';
+	echo '<td><input  style="width: 75px;" maxlength="5" type="text" value="' . $DIISG_delay . '" name="DIISG_delay" id="DIISG_delay" />'.__('milliseconds', 'drop-in-image-slideshow-gallery').'</td>';
 	echo '</tr>';
 	echo '</table>';
 	echo '<p></p>';
-	echo '<p>'.__('Image directory: (Your entire image should be placed within below mentioned path)', 'drop-in-image').'<br><input  style="width: 450px;" type="text" value="';
+	echo '<p>'.__('Image directory: (Your entire image should be placed within below mentioned path)', 'drop-in-image-slideshow-gallery').'<br><input  style="width: 450px;" type="text" value="';
 	echo $DIISG_dir . '" name="DIISG_dir" id="DIISG_dir" /><br>Default : wp-content/plugins/drop-in-image-slideshow-gallery/gallery/</p>';
-	echo __('(Note: Dont upload your original images into this default folder, instead you change this default path to original path)', 'drop-in-image').'</p>';
-	echo '<p><p>'.__('All image link:', 'drop-in-image').'<br><input  style="width: 450px;" type="text" value="';
+	echo __('(Note: Dont upload your original images into this default folder, instead you change this default path to original path)', 'drop-in-image-slideshow-gallery').'</p>';
+	echo '<p><p>'.__('All image link:', 'drop-in-image-slideshow-gallery').'<br><input  style="width: 450px;" type="text" value="';
 	echo $DIISG_link . '" name="DIISG_link" id="DIISG_link" /></p>';
 	echo '<input type="hidden" id="DIISG_submit" name="DIISG_submit" value="1" />';
 	
 	?>
-	<?php _e('Check official website for more info', 'drop-in-image'); ?> 
-	<a target="_blank" href="http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gallery/"><?php _e('Click here', 'drop-in-image'); ?></a><br><br> 
+	<?php _e('Check official website for more info', 'drop-in-image-slideshow-gallery'); ?> 
+	<a target="_blank" href="http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gallery/"><?php _e('Click here', 'drop-in-image-slideshow-gallery'); ?></a><br><br> 
 	<?php
 }
 
@@ -152,12 +154,12 @@ function DIISG_widget_init()
 {
 	if(function_exists('wp_register_sidebar_widget')) 	
 	{
-		wp_register_sidebar_widget('drop-in-image-slideshow', __('Drop In Slide Show', 'drop-in-image'), 'DIISG_widget');
+		wp_register_sidebar_widget('drop-in-image-slideshow', __('Drop In Slide Show', 'drop-in-image-slideshow-gallery'), 'DIISG_widget');
 	}
 	
 	if(function_exists('wp_register_widget_control')) 	
 	{
-		wp_register_widget_control('drop-in-image-slideshow', array(__('Drop In Slide Show', 'drop-in-image'), 'widgets'), 'DIISG_control', 'width=500');
+		wp_register_widget_control('drop-in-image-slideshow', array(__('Drop In Slide Show', 'drop-in-image-slideshow-gallery'), 'widgets'), 'DIISG_control', 'width=500');
 	} 
 }
 
@@ -176,7 +178,7 @@ function DIISG_javascript_files()
 
 function DIISG_textdomain()
 {
-	load_plugin_textdomain( 'drop-in-image', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
+	load_plugin_textdomain( 'drop-in-image-slideshow-gallery', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
 }
 
 add_action('plugins_loaded', 'DIISG_textdomain');

@@ -5,8 +5,8 @@ Author URI: http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gall
 Plugin URI: http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gallery/
 Tags: drop in, image, slideshow, gallery
 Requires at least: 3.4
-Tested up to: 4.2.2
-Stable tag: 10.5
+Tested up to: 4.3.1
+Stable tag: 10.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	
@@ -48,6 +48,12 @@ This drop in image slide show gallery is your regular image slideshow plugin, ex
 
 We have 2 option to configure this plugin [click here](http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gallery/)  to see more info.	 	
 
+= Translators =
+
+* English (en_EN) 	- [Gopi Ramasamy](http://www.gopiplus.com/)
+* Tamil (ta) 		- [Gopi Ramasamy](http://www.gopiplus.com/)
+* Polish (pl_PL) 	- [Abdul Sattar](https://www.couponmachine.in/)
+
 == Frequently Asked Questions ==
 
 1. How to arrange the width & height of the slideshow?
@@ -67,6 +73,15 @@ Answers : http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-galler
 2. Front End http://www.gopiplus.com/work/2010/07/18/drop-in-image-slideshow-gallery/
 
 == Upgrade Notice ==
+
+= 10.7 =
+
+1. Tested up to 4.3.1
+2. Text Domain slug has been added for Language Packs.
+
+= 10.6 =
+
+1. Tested up to 4.3
 
 = 10.5 =
 
@@ -140,6 +155,15 @@ use 'All image link' text field to give link to images
 First version.
 
 == Changelog ==
+
+= 10.7 =
+
+1. Tested up to 4.3.1
+2. Text Domain slug has been added for Language Packs.
+
+= 10.6 =
+
+1. Tested up to 4.3
 
 = 10.5 =
 
